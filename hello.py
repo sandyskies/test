@@ -1,3 +1,3 @@
 #!/usr/bin/python
 print "hello world"
-print "version 1"
+print "version 2"
