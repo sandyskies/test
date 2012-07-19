@@ -9,7 +9,7 @@ import roman1
 import unittest
 
 class KnownValues(unittest.TestCase):
-    known_values = ( (1, 'I'),
+    known_values = ( 
                      (2, 'II'),
                      (3, 'III'),
                      (4, 'IV'),
