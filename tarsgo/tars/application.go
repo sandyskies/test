@@ -2,7 +2,7 @@ package tars
 
 import "fmt"
 
-func printHello(){
+func PrintHello(){
 
 	fmt.Println("hello")
 }
